@@ -1,0 +1,28 @@
+{
+    "name": "turtle test",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "Turtle Logo": "github:mr-coxall/turtle-logo#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.11.37",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
